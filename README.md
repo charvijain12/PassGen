@@ -9,7 +9,7 @@ The program takes user input on the desired length of the password and prompts t
 
 
 ## Requirements
-The program requires Python 3.x to run.
+The program requires `Python 3.x` to run.
 
 
 ## How to use
