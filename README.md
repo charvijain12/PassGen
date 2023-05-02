@@ -26,3 +26,11 @@ The program requires `Python 3.x` to run.
 
 ## Conclusion
 Random Password Generator is a simple and effective tool for generating strong passwords. It can be used to create passwords for various online accounts, ensuring that personal information and data are protected from unauthorized access.
+
+
+## Contributing
+As this repository only contains a single PDF file, there is no scope for external contributions.
+
+
+## License
+This project is licensed under the `MIT License`.
