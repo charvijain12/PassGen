@@ -18,12 +18,12 @@ Follow these steps to use PassGen:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/charvijain12/Random-Password-Generator-Python.git
+   git clone https://github.com/charvijain12/PassGen.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Random-Password-Generator-Python
+   cd PassGen
    ```
 
 3. Run the program:
