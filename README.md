@@ -28,7 +28,7 @@ Follow these steps to use PassGen:
 
 3. Run the program:
    ```
-   python password_generator.py
+   python Random Password Generator.py
    ```
 
 4. Follow the prompts to specify the desired length and character types for the password.
