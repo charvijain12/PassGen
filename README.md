@@ -1,36 +1,48 @@
-# Random Password Generator
-Random Password Generator is a simple Python program that generates strong passwords. It helps users create secure passwords that are difficult to guess or crack. The generated passwords can be used for various online accounts, such as email, social media, banking, and others, to protect personal information and data from unauthorized access.
+# PassGen: Random Password Generator
 
+PassGen is a Python program designed to generate strong and secure passwords. It helps users create complex passwords that are difficult to guess or crack. These generated passwords can be utilized for various online accounts, enhancing the security of personal information and data, and safeguarding them from unauthorized access.
 
 ## How it works
-The password generation process is based on algorithms that consider various parameters such as length, complexity, and character types. The program provides the user with an option to customize the password generation process by specifying specific requirements, such as length and character types.
 
-The program takes user input on the desired length of the password and prompts the user to choose the type of characters they want to include in the password. It then generates a random password that meets the specified criteria.
+The password generation process is based on algorithms that consider various parameters such as length, complexity, and character types. PassGen allows users to customize the password generation process by specifying specific requirements, such as length and character types.
 
+The program prompts the user to enter the desired length of the password and choose the types of characters they want to include in the password. It then generates a random password that meets the specified criteria.
 
 ## Requirements
-The program requires `Python 3.x` to run.
 
+To use PassGen, you need to have `Python 3.x` installed on your system.
 
 ## How to use
-1. Clone the repository: `git clone https://github.com/charvijain12/Random-Password-Generator-Python.git`
 
-2. Navigate to the project directory: `cd Random-Password-Generator-Python`
+Follow these steps to use PassGen:
 
-3. Run the program: `python password_generator.py`
+1. Clone the repository:
+   ```
+   git clone https://github.com/charvijain12/Random-Password-Generator-Python.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd Random-Password-Generator-Python
+   ```
+
+3. Run the program:
+   ```
+   python password_generator.py
+   ```
 
 4. Follow the prompts to specify the desired length and character types for the password.
 
 5. The program will generate a random password that meets the specified criteria.
 
-
 ## Conclusion
-Random Password Generator is a simple and effective tool for generating strong passwords. It can be used to create passwords for various online accounts, ensuring that personal information and data are protected from unauthorized access.
 
+PassGen is a simple yet effective tool for generating strong passwords. It can be used to create passwords for various online accounts, ensuring that personal information and data are protected from unauthorized access.
 
 ## Contributing
+
 As this repository only contains a single PDF file, there is no scope for external contributions.
 
-
 ## License
+
 This project is licensed under the `MIT License`.
